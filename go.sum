@@ -89,6 +89,8 @@ github.com/AkihiroSuda/containerd-fuse-overlayfs v1.0.0/go.mod h1:0mMDvQFeLbbn1W
 github.com/Antonboom/errname v0.1.6/go.mod h1:7lz79JAnuoMNDAWE9MeeIr1/c/VpSUWatBv2FH9NYpI=
 github.com/Antonboom/errname v0.1.7/go.mod h1:g0ONh16msHIPgJSGsecu1G/dcF2hlYR/0SddnIAGavU=
 github.com/Antonboom/nilnil v0.1.1/go.mod h1:L1jBqoWM7AOeTD+tSquifKSesRHs4ZdaxvZR+xdJEaI=
+github.com/AssetMantle/modules v0.3.2-0.20230111110401-59dd33214b87 h1:snRIn+5+zeFrakWb9uY4sGfCgdYGDIoP4KwdyCS2uyw=
+github.com/AssetMantle/modules v0.3.2-0.20230111110401-59dd33214b87/go.mod h1:95gHE+oM9ukWBWQ+26gQ5KW2VXlK75Fynz7aayVok+U=
 github.com/Azure/azure-amqp-common-go/v2 v2.1.0/go.mod h1:R8rea+gJRuJR6QxTir/XuEd+YuKoUiazDC/N96FiDEU=
 github.com/Azure/azure-pipeline-go v0.2.1/go.mod h1:UGSo8XybXnIGZ3epmeBw7Jdz+HiUVpqIlpz/HKHylF4=
 github.com/Azure/azure-pipeline-go v0.2.2/go.mod h1:4rQ/NZncSvGqNkkOsNpOU1tgoNuIlp9AfUH5G1tvCHc=

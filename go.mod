@@ -3,7 +3,7 @@ module github.com/AssetMantle/node
 go 1.14
 
 require (
-	github.com/AssetMantle/modules v0.4.0
+	github.com/AssetMantle/modules v0.3.2-0.20230111110401-59dd33214b87 // indirect
 	github.com/CosmWasm/wasmd v0.29.2
 	github.com/cosmos/cosmos-sdk v0.45.9
 	github.com/cosmos/ibc-go/v3 v3.3.0
